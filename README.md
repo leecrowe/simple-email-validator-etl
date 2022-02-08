@@ -1,2 +1,3 @@
 # A Simple ETL project that use Regular expression to decipher whether an email address is valid/invalid
-![email-validator](https://user-images.githubusercontent.com/81707279/153082742-a2d4ff4d-490f-47ac-adcd-1233bcfce333.gif)
+
+https://user-images.githubusercontent.com/81707279/153083633-eb9720e3-d6b8-4712-a406-15746dd8b69f.mp4
